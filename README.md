@@ -52,9 +52,9 @@ I enjoy turning messy systems into predictable pipelines.
 ### 🛰️ Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tradik&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spagu&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tradik&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spagu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
