@@ -21,6 +21,7 @@ Here are some open-source projects I've worked on:
 | [`infrastructure-agent-freebsd`](https://github.com/tradik/infrastructure-agent-freebsd) | Agent for provisioning and managing FreeBSD systems automatically. | DevOps / Systems / FreeBSD |
 | [`pp`](https://github.com/spagu/pp) | Tiny command-line / scripting helper for productivity. | CLI / Utilities |
 | [`billion`](https://github.com/spagu/billion) | Experimental attempt to work with massive datasets efficiently. | Performance / Data |
+| [`ansible-kubernetes`](https://github.com/spagu/ansible-kubernetes-centos-7) | Ansible with Kubernetes playbooks for Centos. | Infra / Setup |
 | [`raspberry-pxe-centos-8`](https://github.com/spagu/raspberry-pxe-centos-8) | PXE boot setup for Raspberry Pi with automated CentOS 8 installation. | Linux / Infra / IoT |
 
 ---
