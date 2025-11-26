@@ -22,6 +22,7 @@ Here are some open-source projects I've worked on:
 | [`pp`](https://github.com/spagu/pp) | Tiny command-line / scripting helper for productivity. | CLI / Utilities |
 | [`billion`](https://github.com/spagu/billion) | Experimental attempt to work with massive datasets efficiently. | Performance / Data |
 | [`ansible-kubernetes`](https://github.com/spagu/ansible-kubernetes-centos-7) | Ansible with Kubernetes playbooks for Centos. | Infra / Setup |
+| [`slimjson`](https://tradik.github.io/slimjson/) | Slim down JSON data for AI models and bandwidth-constrained systems. | LLM Optimisation |
 | [`raspberry-pxe-centos-8`](https://github.com/spagu/raspberry-pxe-centos-8) | PXE boot setup for Raspberry Pi with automated CentOS 8 installation. | Linux / Infra / IoT |
 
 ---
