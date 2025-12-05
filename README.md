@@ -19,6 +19,7 @@ Here are some open-source projects I've worked on:
 | [`schema-resume`](https://github.com/tradik/schema-resume) | Machine-readable resume format + CLI generator based on structured schema. | JSON Schema / Automation / Documentation |
 | [`mddb`](https://github.com/tradik/mddb) | Minimalist DB / structured store for small apps or automation tasks. | Databases / Go |
 | [`htmonitor`](https://github.com/spagu/htmonitor) | .htaccess Geo-Redirection Mock/Testing | Monitoring / Infra |
+| [`wpexporter`](https://tradik.github.io/wpexporter/) | WordPress Export tool (JSON/MD/XML) written in GoLang | Content / Tool |
 | [`infrastructure-agent-freebsd`](https://github.com/tradik/infrastructure-agent-freebsd) | Agent for provisioning and managing FreeBSD systems automatically. | DevOps / Systems / FreeBSD |
 | [`pp`](https://github.com/spagu/pp) | Tiny command-line / scripting helper for productivity. | CLI / Utilities |
 | [`billion`](https://github.com/spagu/billion) | Experimental attempt to work with massive datasets efficiently. | Performance / Data |
