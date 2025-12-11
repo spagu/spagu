@@ -32,13 +32,28 @@ Here are some open-source projects I've worked on:
 
 ### 🚀 What I do
 
-- Infrastructure automation  
-- OS-level tooling (BSD/Linux)  
-- DevOps & CI/CD pipelines  
-- Small, sharp CLI utilities
+- Define platform strategy & long-term technical direction for distributed systems and cloud environments.
+- Architect and oversee mission-critical infrastructure across multiple teams & services
+- Lead Platform/SRE/DevOps groups, setting engineering standards, practices and operational models
+- Build Internal Developer Platforms (IDP) powering deployments, environments, observability and security
+- Drive reliability engineering: SLOs, incident management, failure analysis, resilience patterns
+- Establish scalable delivery pipelines (CI/CD, automation, governance)
+- Partner with leadership & product to align platform capabilities with company goals
 
-I enjoy turning messy systems into predictable pipelines.
+### My engineering domains
 
+- Cloud architecture (multi-cloud / hybrid)
+- Distributed systems & service orchestration
+- Kubernetes ecosystems, mesh architecture, workload orchestration
+- Observability & operational intelligence
+- Scalability, performance & reliability
+- Security, governance, compliance automation
+
+### How I work
+
+I build platforms the same way good products are built — with a clear vision, measurable outcomes, user empathy and technical excellence. My goal is to create an engineering ecosystem where teams ship faster, safer and with confidence.
+
+Developer experience & platform tooling
 ---
 
 ### 📚 Tech I use
@@ -87,6 +102,6 @@ I enjoy turning messy systems into predictable pipelines.
 
 ### 💬 Let's connect
 
-If you want to collaborate on DevOps tooling or automation experiments — open an issue or start a discussion in any repo.
+If you want to collaborate on DevOps tooling or automation experiments, open an issue or start a discussion in any repo.
 
 > ⚡ _Always improving. Always shipping._
