@@ -43,14 +43,35 @@ I enjoy turning messy systems into predictable pipelines.
 
 ### 📚 Tech I use
 
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-B73225?style=flat-square&logo=freebsd&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-E44C30?style=flat-square&logo=git&logoColor=white" />
-</p>
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-B73225?style=flat-square&logo=freebsd&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-E44C30?style=flat-square&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)
+![Linkerd](https://img.shields.io/badge/Linkerd-2E5D69?logo=linkerd&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy-FF4F67?logo=envoyproxy&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A42ED?logo=pulumi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE7A16?logo=argo&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-2E5FEC?logo=flux&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-7EBF46?logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-46A3FF?logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0A66C2)
+![SRE](https://img.shields.io/badge/SRE-4B275F)
+![Observability](https://img.shields.io/badge/Observability-FF8800)
+![Reliability Engineering](https://img.shields.io/badge/Reliability%20Engineering-0550AE)
+
 
 ---
 
