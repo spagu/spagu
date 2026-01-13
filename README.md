@@ -19,6 +19,7 @@ Here are some open-source projects I've worked on:
 | [`docker-stats`](https://spagu.github.io/docker-stats/) | Better stats for Docker containers like a top. | Docker tool / Go |
 | [`schema-resume`](https://github.com/tradik/schema-resume) | Machine-readable resume format + CLI generator based on structured schema. | JSON Schema / Automation / Documentation |
 | [`mddb`](https://github.com/tradik/mddb) | Minimalist DB / structured store for small apps or automation tasks. | Databases / Go |
+| [`ssg`](https://github.com/spagu/ssg) | A simple static site generator written in Go. Converts content from WordPress exports | CMS / Go|
 | [`htmonitor`](https://github.com/spagu/htmonitor) | .htaccess Geo-Redirection Mock/Testing | Monitoring / Infra |
 | [`wpexporter`](https://tradik.github.io/wpexporter/) | WordPress Export tool (JSON/MD/XML) written in GoLang | Content / Tool |
 | [`infrastructure-agent-freebsd`](https://github.com/tradik/infrastructure-agent-freebsd) | Agent for provisioning and managing FreeBSD systems automatically. | DevOps / Systems / FreeBSD |
