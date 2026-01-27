@@ -17,6 +17,7 @@ Here are some open-source projects I've worked on:
 | Project | Description | Tech / Domain |
 |---------|-------------|---------------|
 | [`docker-stats`](https://spagu.github.io/docker-stats/) | Better stats for Docker containers like a top. | Docker tool / Go |
+| [`xslt-processor`](https://spagu.github.io/XSLT-Processor/) | Future-proof your XSLT applications before Chrome removes native support. | XSLT tool / JavaScript |
 | [`schema-resume`](https://github.com/tradik/schema-resume) | Machine-readable resume format + CLI generator based on structured schema. | JSON Schema / Automation / Documentation |
 | [`mddb`](https://github.com/tradik/mddb) | Minimalist DB / structured store for small apps or automation tasks. | Databases / Go |
 | [`ssg`](https://github.com/spagu/ssg) | A simple static site generator written in Go. Converts content from WordPress exports | CMS / Go|
