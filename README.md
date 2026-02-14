@@ -18,6 +18,7 @@ Here are some open-source projects I've worked on:
 
 | Project | Description | Tech / Domain | ⭐ Stars | 🍴 Forks |
 |---------|-------------|---------------|----------|----------|
+| [`acpi_intel_sst`](https://github.com/spagu/acpi_intel_sst/) | Tools and helpers for working with Intel SST ACPI audio on FreeBSD. | BSD / Audio / Infra | ![Stars](https://img.shields.io/github/stars/spagu/acpi_intel_sst?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/spagu/acpi_intel_sst?style=flat-square&label=) |
 | [`docker-stats`](https://spagu.github.io/docker-stats/) | Better stats for Docker containers like a top. | Docker tool / Go | ![Stars](https://img.shields.io/github/stars/spagu/docker-stats?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/spagu/docker-stats?style=flat-square&label=) |
 | [`xslt-processor`](https://spagu.github.io/XSLT-Processor/) | Future-proof your XSLT applications before Chrome removes native support. | XSLT tool / JavaScript | ![Stars](https://img.shields.io/github/stars/spagu/XSLT-Processor?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/spagu/XSLT-Processor?style=flat-square&label=) |
 | [`schema-resume`](https://github.com/tradik/schema-resume) | Machine-readable resume format + CLI generator based on structured schema. | JSON Schema / Automation / Documentation | ![Stars](https://img.shields.io/github/stars/tradik/schema-resume?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/tradik/schema-resume?style=flat-square&label=) |
