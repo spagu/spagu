@@ -32,6 +32,9 @@ Here are some open-source projects I've worked on:
 | [`ansible-kubernetes`](https://github.com/spagu/ansible-kubernetes-centos-7) | Ansible with Kubernetes playbooks for Centos. | Infra / Setup | ![Stars](https://img.shields.io/github/stars/spagu/ansible-kubernetes-centos-7?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/spagu/ansible-kubernetes-centos-7?style=flat-square&label=) |
 | [`slimjson`](https://tradik.github.io/slimjson/) | Slim down JSON data for AI models and bandwidth-constrained systems. | LLM Optimisation | ![Stars](https://img.shields.io/github/stars/tradik/slimjson?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/tradik/slimjson?style=flat-square&label=) |
 | [`raspberry-pxe-centos-8`](https://github.com/spagu/raspberry-pxe-centos-8) | PXE boot setup for Raspberry Pi with automated CentOS 8 installation. | Linux / Infra / IoT | ![Stars](https://img.shields.io/github/stars/spagu/raspberry-pxe-centos-8?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/spagu/raspberry-pxe-centos-8?style=flat-square&label=) |
+| [`enex2md`](https://github.com/spagu/enex2md) | Convert Evernote ENEX exports to Markdown with full attachment support. | Tool / Go | ![Stars](https://img.shields.io/github/stars/spagu/enex2md?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/spagu/enex2md?style=flat-square&label=) |
+| [`asciinema2video`](https://github.com/spagu/asciinema2video) | Convert asciinema recordings to video formats (MP4, GIF, WebP, WebM, MOV). | CLI Tool / Go | ![Stars](https://img.shields.io/github/stars/spagu/asciinema2video?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/spagu/asciinema2video?style=flat-square&label=) |
+
 
 ---
 
